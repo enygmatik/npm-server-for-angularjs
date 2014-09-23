@@ -1,0 +1,17 @@
+{
+  "name": "npm-server-for-angularjs",
+  "description": "Easy install npm server for Angular.Js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Severenit/npm-server-for-angularjs",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "latest",
+    "angular-mocks": "latest",
+    "jquery": "latest",
+    "bootstrap": "latest",
+    "angular-route": "latest",
+    "angular-resource": "latest",
+    "angular-animate": "latest"
+  }
+}
